@@ -65,7 +65,7 @@ For our newest research, feel free to follow our socials:
 
 Jack Foster: [LinkedIn](https://www.linkedin.com/in/jackfoster-ml/), [Twitter](https://twitter.com/JackFosterML) , [Scholar](https://scholar.google.com/citations?user=7m8cBAoAAAAJ&hl=en)
 
-Kyle Fogarty: [LinkedIn](www.linkedin.com/in/kylefogarty), [Twitter](https://twitter.com/ktfogarty), [Scholar](https://scholar.google.com/citations?hl=en&user=yEwwq4EAAAAJ)
+Kyle Fogarty: [LinkedIn](https://www.linkedin.com/in/kylefogarty), [Twitter](https://twitter.com/ktfogarty), [Scholar](https://scholar.google.com/citations?hl=en&user=yEwwq4EAAAAJ)
 
 Stefan Schoepf: [LinkedIn](https://www.linkedin.com/in/schoepfstefan/), [Twitter](https://twitter.com/S__Schoepf), [Scholar](https://scholar.google.com/citations?hl=en&user=GTvLmf0AAAAJ)
 
