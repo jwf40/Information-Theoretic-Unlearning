@@ -6,7 +6,7 @@
 ![SSD_heading](/assets/jit_heading.png)
 
 
-This is the code for the paper ** Zero-Shot Machine Unlearning at Scale via Lipchitz Regularization**.
+This is the code for the paper **[Zero-Shot Machine Unlearning at Scale via Lipchitz Regularization](https://browse.arxiv.org/abs/2402.01401)**.
 
 ## Usage
 
