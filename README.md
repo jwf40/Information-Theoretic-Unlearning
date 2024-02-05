@@ -3,6 +3,7 @@
 ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/jwf40/Zeroshot-Unlearning-At-Scale/main) ![GitHub Repo stars](https://img.shields.io/github/stars/jwf40/Zeroshot-Unlearning-At-Scale) ![GitHub repo size](https://img.shields.io/github/repo-size/jwf40/Zeroshot-Unlearning-At-Scale)
 
 
+![SSD_heading](/assets/jit_heading.png)
 
 
 This is the code for the paper ** Zero-Shot Machine Unlearning at Scale via Lipchitz Regularization**.
