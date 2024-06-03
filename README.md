@@ -1,9 +1,9 @@
-# Zero-Shot Unlearning at Scale
+# An Information Theoretic Approach to Unlearning
 
-![GitHub last commit (branch)](https://img.shields.io/github/last-commit/jwf40/Zeroshot-Unlearning-At-Scale/main) ![GitHub Repo stars](https://img.shields.io/github/stars/jwf40/Zeroshot-Unlearning-At-Scale) ![GitHub repo size](https://img.shields.io/github/repo-size/jwf40/Zeroshot-Unlearning-At-Scale)
+![GitHub last commit (branch)](https://img.shields.io/github/last-commit/jwf40/Information-Theoretic-Unlearning/main) ![GitHub Repo stars](https://img.shields.io/github/stars/jwf40/Information-Theoretic-Unlearning) ![GitHub repo size](https://img.shields.io/github/repo-size/jwf40/Information-Theoretic-Unlearning)
 
 
-![SSD_heading](/assets/jit_heading.png)
+![SSD_heading](/assets/jit_ITU.png)
 
 
 This is the code for the paper **[Zero-Shot Machine Unlearning at Scale via Lipchitz Regularization](https://browse.arxiv.org/abs/2402.01401)**.
