@@ -6,7 +6,7 @@
 ![SSD_heading](/assets/jit_ITU.png)
 
 
-This is the code for the paper **[Zero-Shot Machine Unlearning at Scale via Lipchitz Regularization](https://browse.arxiv.org/abs/2402.01401)**.
+This is the code for the paper **[An Information Theoretic Approach to Machine Unlearning](https://browse.arxiv.org/abs/2402.01401)**.
 
 ## Usage
 
