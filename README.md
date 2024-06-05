@@ -10,10 +10,10 @@ This is the code for the paper **[An Information Theoretic Approach to Machine U
 
 ## Usage
 
-Experiments can be run via the shell script
+Experiments can be run via the shell script (0 is the GPU number, feel free to change on a multi-gpu setup)
 
 ```
-./cifar100_fullclass_exps_vgg.sh 0 # to run experiments on GPU 0 (nvidia-smi)
+./cifar100_fullclass_exps_vgg.sh 0
 ```
 You might encounter issues with executing this file due to different line endings with Windows and Unix. Use dos2unix "filename" to fix.
 
