@@ -19,7 +19,7 @@ You might encounter issues with executing this file due to different line ending
 
 ## Setup
 
-You will need to train VGG16 and Vision Transformers. Use pretrain_model.py for this and then copy the paths of the models into the respecive .sh files.
+You will need to either download the weights we used for our models from **[here](https://drive.google.com/drive/folders/1B2-A5tOnjbNGOpNM_LmG0zj2xO7o8rsF)**, or train VGG16 and Vision Transformers from scratch using pretrain_model.py for this and then copy the paths of the models into the respecive .sh files. **Important** Due to neural net's propensity to learn smooth functions first, please make sure to train the models for a sufficient amount of time. Premature stopping significantly impacts unlearning performance.
 
 ```
 # fill in _ with your desired parameters as described in pretrain_model.py
