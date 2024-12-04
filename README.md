@@ -8,6 +8,8 @@
 
 This is the code for the paper **[An Information Theoretic Approach to Machine Unlearning](https://browse.arxiv.org/abs/2402.01401)**.
 
+_Note: VGG16 in the code is actually a VGG11. Working on updating these refs._
+
 ## Usage
 
 Experiments can be run via the shell script (0 is the GPU number, feel free to change on a multi-gpu setup; 1 is the seed - set to any int).
