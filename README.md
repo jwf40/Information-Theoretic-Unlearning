@@ -71,6 +71,8 @@ Kyle Fogarty: [LinkedIn](https://www.linkedin.com/in/kylefogarty), [Twitter](htt
 
 Stefan Schoepf: [LinkedIn](https://www.linkedin.com/in/schoepfstefan/), [Twitter](https://twitter.com/S__Schoepf), [Scholar](https://scholar.google.com/citations?hl=en&user=GTvLmf0AAAAJ)
 
+Zack Dugue: [LinkedIn](https://www.linkedin.com/in/zack-dugue-a7095618a/)
+
 Cengiz Öztireli: [LinkedIn](https://www.linkedin.com/in/cengizoztireli/), [Scholar](https://scholar.google.com/citations?hl=en&user=dXt1WOUAAAAJ)
 
 Alexandra Brintrup: [LinkedIn](https://www.linkedin.com/in/alexandra-brintrup-1684171/), [Scholar](https://scholar.google.com/citations?hl=en&user=8HJL8cAAAAAJ)
